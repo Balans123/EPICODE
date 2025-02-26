@@ -1,0 +1,50 @@
+GET /MFEwTzBNMEswSTAJBgUrDgMCGgUABBR8sWZUnKvbRO5iJhat9GV793rVlAQUrb2YejS0Jvf6xCZU7wO94CTLVBoCEEIa8pQJhBkfUgpLxiQmp0s%3D HTTP/1.1
+Connection: Keep-Alive
+Accept: */*
+User-Agent: Microsoft-CryptoAPI/10.0
+Host: ocsp.usertrust.com
+
+
+HTTP/1.1 200 OK
+Date: Wed, 26 Feb 2025 10:23:56 GMT
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: keep-alive
+CF-Ray: 917f38fcbd515242-MXP
+CF-Cache-Status: HIT
+Accept-Ranges: bytes
+Age: 5142
+Last-Modified: Wed, 26 Feb 2025 08:58:14 GMT
+Vary: Accept-Encoding
+X-CCACDN-Proxy-ID: mcdpinlb5
+X-Frame-Options: SAMEORIGIN
+Server: cloudflare
+
+0.
+..
+GET /MFEwTzBNMEswSTAJBgUrDgMCGgUABBR8sWZUnKvbRO5iJhat9GV793rVlAQUrb2YejS0Jvf6xCZU7wO94CTLVBoCEEIa8pQJhBkfUgpLxiQmp0s%3D HTTP/1.1
+Cache-Control: no-cache
+Connection: Keep-Alive
+Pragma: no-cache
+Accept: */*
+User-Agent: Microsoft-CryptoAPI/10.0
+Host: ocsp.usertrust.com
+
+
+HTTP/1.1 200 OK
+Date: Wed, 26 Feb 2025 10:23:57 GMT
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: keep-alive
+CF-Ray: 917f38feef425242-MXP
+CF-Cache-Status: HIT
+Accept-Ranges: bytes
+Age: 5143
+Last-Modified: Wed, 26 Feb 2025 08:58:14 GMT
+Vary: Accept-Encoding
+X-CCACDN-Proxy-ID: mcdpinlb5
+X-Frame-Options: SAMEORIGIN
+Server: cloudflare
+
+0.
+..
